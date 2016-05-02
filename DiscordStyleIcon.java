@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 public class DiscordStyleIcon
 {
 
-    //Initialize a random number generator
+    //Initialize a random number generator , Generates random number
     public static final Random r = new Random();
 
     //Image Size
